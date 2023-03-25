@@ -16,7 +16,7 @@
 #' probability distribution f.
 #' 
 #' @examples
-#' With the following code we are able to generate 10'000 random numbers
+#' With the following code we are able to generate 100'000 random numbers
 #' following a Beta(2,2) distrution by using a Unif(0,1) as our proposal 
 #' distribution.
 #' f <- function(x) dbeta(x, 2, 2)
